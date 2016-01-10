@@ -1,0 +1,15 @@
+{
+    "name": "shockwavedesign/sendpulse-rest-api-php",
+    "description": "The Sendpulse API functions.",
+    "require": {
+    },
+    "require-dev": {
+        "php": ">=5.4.0",
+        "phpunit/phpunit": "~4.6"
+    },
+    "autoload": {
+        "psr-0": {
+            "Sendpulse": "api/"
+        }
+    }
+}
